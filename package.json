@@ -2,13 +2,9 @@
   "name": "nodemailertask",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "engines": {
-    "node": "16.15.1",
-    "npm": "8.5.5"
-  },
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "author": "Mohamed Ansary",
   "license": "ISC",
